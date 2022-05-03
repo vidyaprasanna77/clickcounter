@@ -1,0 +1,13 @@
+.heading{
+    font-style:"roboto";
+    font-size:large;
+}
+.spanhead{
+    color:brown;
+    font-weight:bold;
+}
+
+.buttonE1{
+    background-color: beige;
+    border-radius:5px;
+}
